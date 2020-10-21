@@ -17,6 +17,7 @@ html {
 }
 
 #calculator {
+  position: absolute;
   width: 325px;
   height: auto;
 
